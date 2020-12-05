@@ -1,0 +1,33 @@
+@import url(https://fonts.googleapis.com/css2?family=Aleo&display=swap);
+/**
+ * The following styles get applied both on the front of your site
+ * and in the editor.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+.wp-block-create-block-hetas-block-colour-pane {
+  text-align: center; }
+
+.wp-block-create-block-hetas-block-colour-pane span {
+  display: inline-block;
+  margin-bottom: 1em; }
+
+.wp-block-create-block-hetas-block-colour-pane span p,
+.wp-block-create-block-hetas-block-colour-pane span h2,
+.wp-block-create-block-hetas-block-colour-pane span h3,
+.wp-block-create-block-hetas-block-colour-pane span h4,
+.wp-block-create-block-hetas-block-colour-pane span h5,
+.wp-block-create-block-hetas-block-colour-pane span h6 {
+  margin: 0;
+  padding: 10px 15px;
+  line-height: 1em; }
+
+.wp-block-create-block-hetas-block-colour-pane span h2,
+.wp-block-create-block-hetas-block-colour-pane span h3,
+.wp-block-create-block-hetas-block-colour-pane span h4,
+.wp-block-create-block-hetas-block-colour-pane span h5,
+.wp-block-create-block-hetas-block-colour-pane span h6 {
+  font-family: 'Aleo', serif; }
+
+
+/*# sourceMappingURL=style-index.css.map*/
